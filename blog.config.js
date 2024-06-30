@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'bietiaop',
   author: 'bietiaop',
-  email: 'bietiaop@gmail.net',
+  email: '1527109126@qq.com',
   link: 'https://www.bietiaop.com',
   description: '别调P的博客',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
