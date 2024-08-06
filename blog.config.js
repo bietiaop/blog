@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'bietiaop',
+  title: '别调P',
   author: 'bietiaop',
   email: '1527109126@qq.com',
   link: 'https://www.bietiaop.com',
